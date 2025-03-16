@@ -1,6 +1,6 @@
 # Karen AI (ZGenAI)
 
-![Karen AI](https://zgenai.xyz/assets/karen-banner.png)
+![Karen AI](https://github.com/zgenai/zgenai/blob/main/banner.png)
 
 ## 🚀 Welcome to the Future of AI & Memes
 
